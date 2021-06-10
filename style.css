@@ -1,0 +1,33 @@
+/* Variables */
+body {
+  background: #83b692;
+  color: #fff;
+  font-family: sans-serif;
+  text-align: center;
+}
+a:link,
+a:visited {
+  background: #f9627d;
+  color: #fff;
+  display: inline-block;
+  padding: 10px 10px;
+  text-decoration: none;
+}
+a:hover {
+  background-color: #d08b97;
+}
+a:active {
+  background-color: #ff5c79;
+}
+.container {
+  width: 100px;
+}
+.container .text {
+  color: red;
+  font-size: 20px;
+}
+.col-md-4 {
+  float: left;
+  width: 33.33%;
+}
+/*# sourceMappingURL=style.css.map */
