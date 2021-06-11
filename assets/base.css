@@ -1,14 +1,6 @@
-h1,
-h2,
-h3 {
-  margin: 0;
-}
 body {
-  margin: 0;
-  padding: 0;
+  padding: 1px;
 }
-p {
-  margin: 0;
-  padding: 0;
+.test {
+  padding: 1px;
 }
-/*# sourceMappingURL=base.css.map */

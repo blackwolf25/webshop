@@ -30,4 +30,15 @@ a:active {
   float: left;
   width: 33.33%;
 }
-/*# sourceMappingURL=style.css.map */
+.col-md-6 {
+  float: left;
+  width: 50%;
+}
+.col-md-3 {
+  float: left;
+  width: 50%;
+}
+.col-md-5 {
+  float: left;
+  width: 50%;
+}
